@@ -1,0 +1,27 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "codigo": "PS-100",
+        "nombre": "Panel Monocristalino 450W",
+        "precio": 320000,
+        "stock": 15,
+        "potencia_w": 450,
+        "eficiencia": 21.5
+    },
+    {
+        "tipo": "PanelSolar",
+        "codigo": "PS-200",
+        "nombre": "Panel Policristalino 330W",
+        "precio": 210000,
+        "stock": 40,
+        "potencia_w": 330,
+        "eficiencia": 17.8
+    },
+    {
+        "tipo": "DispositivoEcológico",
+        "codigo": "CB-001",
+        "nombre": "Controlador de Carga MPPT",
+        "precio": 95000,
+        "stock": 25
+    }
+]
